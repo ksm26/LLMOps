@@ -3,6 +3,9 @@
 💻 Welcome to the "LLMOps" course! Instructed by Erwin Huizenga, Machine Learning Technical Lead at Google, this course will guide you through the LLMOps pipeline, enabling you to pre-process training data for supervised instruction tuning and deploy custom Large Language Models (LLMs).
 
 **Course Website**: 📚[deeplearning.ai](https://www.deeplearning.ai/short-courses/llmops/)
+<p align="center">
+<img src="images/1_4.png" height="350"> 
+</p>
 
 ## Course Summary
 In this course, you will dive into the LLMOps pipeline and learn how to adapt it to train and deploy custom LLMs for your specific applications. Here's what you can expect to learn and experience:

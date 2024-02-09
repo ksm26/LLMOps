@@ -7,6 +7,12 @@
 ## Course Summary
 In this course, you will dive into the LLMOps pipeline and learn how to adapt it to train and deploy custom LLMs for your specific applications. Here's what you can expect to learn and experience:
 
+1. 🗝 **Fundamentals**: Learn about Data management, Automation and Deployment. This course is about how to build and operate a **${\textsf{\color{red}Model Customization workflow}}$** and how to deploy that into **${\textsf{\color{red}production}}$**.  
+<p align="center">
+<img src="images/1_1.png" height="250"> 
+<img src="images/1_3.png" height="350"> 
+</p>
+
 1. 📊 **Pre-processing Training Data**: Retrieve and transform training data for supervised fine-tuning of an LLM.
 2. 📦 **Versioning Data and Models**: Learn to version your data and tuned models to track tuning experiments effectively.
 3. ⚙️ **Configuring and Executing Supervised Tuning Pipeline**: Configure and execute an open-source supervised tuning pipeline to train and deploy a tuned LLM.

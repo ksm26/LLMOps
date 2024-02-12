@@ -21,7 +21,7 @@ In this course, you will dive into the LLMOps pipeline and learn how to adapt it
 <img src="images/2_1.png" height="200"> 
 </p>
 
-3. 📦 **Versioning Data and Models**: Learn to version your data and tuned models to track tuning experiments effectively.
+3. 📦 **Versioning Data and Models**: Learn to version your data and tuned models to track tuning experiments effectively. This lab has been implemented in **${\textsf{\color{red}Kubeflow}}$**
 <p align="center">
 <img src="images/3_1.png" height="350"> 
 </p>

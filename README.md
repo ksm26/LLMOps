@@ -22,6 +22,15 @@ In this course, you will dive into the LLMOps pipeline and learn how to adapt it
 </p>
 
 3. 📦 **Versioning Data and Models**: Learn to version your data and tuned models to track tuning experiments effectively.
+<p align="center">
+<img src="images/3_1.png" height="350"> 
+</p>
+
+<p align="center">
+<img src="images/3_4.png" height="200"> 
+<img src="images/3_5.png" height="200"> 
+</p>
+
 4. ⚙️ **Configuring and Executing Supervised Tuning Pipeline**: Configure and execute an open-source supervised tuning pipeline to train and deploy a tuned LLM.
 5. 📈 **Monitoring Model Behavior**: Output and study safety scores to responsibly monitor and filter your LLM application’s behavior.
 

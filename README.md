@@ -32,7 +32,14 @@ In this course, you will dive into the LLMOps pipeline and learn how to adapt it
 </p>
 
 4. ⚙️ **Configuring and Executing Supervised Tuning Pipeline**: Configure and execute an open-source supervised tuning pipeline to train and deploy a tuned LLM.
+<p align="center">
+<img src="images/4_1.png" height="300"> 
+</p>
+
 5. 📈 **Monitoring Model Behavior**: Output and study safety scores to responsibly monitor and filter your LLM application’s behavior.
+<p align="center">
+<img src="images/4_2.png" height="300"> 
+</p>
 
 ## Key Points
 - 🛠 Adapt an open-source pipeline for supervised fine-tuning of LLMs to better answer user questions.
